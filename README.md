@@ -2,7 +2,7 @@
 
 🔬 **Geoscientist turned Data Scientist** | 📍 Brighton, UK
 
-I bridge the gap between subsurface earth science and modern machine learning[cite: 1]. With 5 years of industry experience in energy exploration and a master’s degree in Data Science, I specialize in reducing operational uncertainty using data-driven modelling, probabilistic methods, and big geospatial data.
+I bridge the gap between subsurface earth science and modern machine learning. With 5 years of industry experience in energy exploration and a master’s degree in Data Science, I specialize in reducing operational uncertainty using data-driven modelling, probabilistic methods, and big geospatial data.
 
 ---
 
@@ -11,7 +11,7 @@ I bridge the gap between subsurface earth science and modern machine learning[ci
 * 🌍 **Geospatial & Physical Modelling:** Applying statistical and ML models to complex, real-world physical systems.
 * 🎯 **Uncertainty Quantification:** Building probabilistic frameworks to quantify risk and power data-driven decisions.
 * 🤖 **Machine Learning & Research:** Leveraging Python frameworks to extract actionable insights from big data.
-* ⚡ **Fun Fact:** Published research on mapping tilted oil-water contacts[cite: 1], and spent time navigating both offshore exploration and Brighton's parcel delivery routes!
+* ⚡ **Fun Fact:** Published research on mapping tilted oil-water contacts, and spent time navigating both offshore exploration and Brighton's parcel delivery routes!
 
 ---
 
