@@ -19,10 +19,10 @@ I bridge the gap between subsurface earth science and modern machine learning. W
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, R |
-| **Machine Learning & Stats** | PyTorch, TensorFlow, scikit-learn, Probabilistic Modelling, Monte Carlo Simulations |
+| **Languages** | Python, R, SQL |
+| **Machine Learning & Stats** | PyTorch, TensorFlow, Unsupervised Learning (scikit-learn), NLP, Probabilistic Modelling, Monte Carlo Simulations |
 | **Data & Cloud** | AWS, Web Applications, REST/OOP, Data Visualization (MATLAB, Spotfire, Petrosys) |
-| **Domain Tools** | Petrel, OpenWorks, GIS, Geolog, Geoscience Interpretation Software |
+| **Domain Tools** | Petrel, OpenWorks, GIS, Geolog |
 
 ---
 
